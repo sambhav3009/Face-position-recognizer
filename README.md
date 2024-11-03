@@ -1,5 +1,5 @@
 
-# **Title: Facial Expression Recognition**
+#Facial Expression Recognition**
 
 
 ## **1. Methodology**
