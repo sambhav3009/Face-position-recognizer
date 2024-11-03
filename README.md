@@ -9,10 +9,8 @@
 ## **3. Input / Output 🔄**
 <img src="https://user-images.githubusercontent.com/7460892/207004091-8f67548d-50ac-49c3-b7cb-ef8ec18a6491.png" width="40%" height="40%">
 
-## **4. Screenshot of the Interface 📸**
-<img src="https://user-images.githubusercontent.com/7460892/207004468-57fc5284-f747-4b93-9bb7-2ff7f1032837.png" width="50%" height="50%">
 
-## **5. Code Snippet 💻**
+## **4. Code Snippet 💻**
 ```python
 !pip install landingai &> /dev/null
 
